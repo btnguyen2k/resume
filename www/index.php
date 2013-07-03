@@ -78,135 +78,47 @@
                         <!-- Resume
                         ================================================== -->
                         <div id="resume-tab" class="tab-pane row-fluid active fade in">
-
                             <!-- column 1 -->
                             <div class="span4">
-
                                 <h3 class="my-caption">Education</h3>
-
-                                <h4 class="my-activity">B.A in Web Design</h4>
-                                <h5 class="my-venture">Northwestern, Illinois <span>2006 - 2009</span></h5>
-
-                                <h4 class="my-activity">B.A in Graphic Design</h4>
-                                <h5 class="my-venture">RISDI, Rode Island <span>2003 - 2006</span></h5>
+                                <h4 class="my-activity">Master of Computer Science</h4>
+                                <h5 class="my-venture"><a href="http://www.latrobe.edu.au/" target="_blank">Latrobe University, Aus</a><span>2003 - 2005</span></h5>
+                                <h4 class="my-activity">Bachelor of Computer Science</h4>
+                                <h5 class="my-venture"><a href="http://www.unimelb.edu.au/" target="_blank">The University of Melbourne, Aus</a><span>2000 - 2002</span></h5>
 
                                 <h3 class="my-caption">Awards</h3>
-
-                                <h4 class="my-activity">AP Challenge</h4>
-                                <h5 class="my-venture">Print Design, Best Cover <span>2011</span></h5>
-
-                                <h4 class="my-activity">UIA - North America</h4>
-                                <h5 class="my-venture">Best Newcomer - Digital Arts <span>2010</span></h5>
-
-                                <h4 class="my-activity">Cross Media Awards</h4>
-                                <h5 class="my-venture">Design Challenge, Finalist <span>2010</span></h5>
-
-                                <h3 class="my-caption">Published</h3>
-
-                                <h4 class="my-activity">Wired, Magazine</h4>
-                                <h5 class="my-venture">Rising Stars in Digital Art<span>Issue 06/12</span></h5>
-
+                                <h4 class="my-activity">Sciant Vina</h4>
+                                <h5 class="my-venture">"Employee of the year" Award<span>2006</span></h5>
+                                <h4 class="my-activity">Australia</h4>
+                                <h5 class="my-venture">AusAID Scholarships<span>2000</span></h5>
                             </div>
 
                             <!-- column 2 -->
                             <div class="span4">
-
                                 <h3 class="my-caption">Employment</h3>
-
-                                <h4 class="my-activity">Creative / Art Director</h4>
-                                <h5 class="my-venture">Rosario Media Int. <span>07 2010 - Present</span></h5>
+                                <h4 class="my-activity">Software Manager</h4>
+                                <h5 class="my-venture">VNG Corporation.<span>Jan/2011 - Present</span></h5>
                                 <p  class="my-specifics">
-                                    Ad putent delenit eos, quis ullamcorper vix eu. Te mundi latine temporibus eum.
                                 </p>
-
-                                <h4 class="my-activity">Multimedia Designer</h4>
-                                <h5 class="my-venture">e-Interactive Ltd.<span>04 2009 - 06 2010</span></h5>
+                                <h4 class="my-activity">Senior PM / PM Lead</h4>
+                                <h5 class="my-venture">COA Solutions.<span>Mar/2008 - May/2010</span></h5>
                                 <p  class="my-specifics">
-                                    Curabitur turpis enim, fermentum ut eleifend vel, pulvinar id nibh.
-                                    Nam tincidunt ullamcorper sodales.
                                 </p>
-
-                                <h3 class="my-caption">Internship</h3>
-
-                                <h4 class="my-activity">Prepress Technician</h4>
-                                <h5 class="my-venture">Lola Print Productions <span>05 2008 - 05 2009</span></h5>
+                                <h4 class="my-activity">Senior Software Engineer</h4>
+                                <h5 class="my-venture">Sciant Vina, Co. Ltd.<span>Nov/2005 - Nov/2007</span></h5>
                                 <p  class="my-specifics">
-                                    Pellentesque dignissim, odio a euismod viverra, tellus orci viverra risus,
-                                    sed accumsan odio elit nec tellus.
                                 </p>
-
+                                <h4 class="my-activity">Software Engineer</h4>
+                                <h5 class="my-venture">Hyper-Drive Tech. Pty Ltd.<span>Jul/2003 - Jun/2005</span></h5>
+                                <p  class="my-specifics">
+                                </p>
                             </div>
 
                             <!-- column 3 -->
                             <div class="span4">
-
-                                <h3 class="my-caption">Graphic &amp; Multi Media Skills</h3>
-
-                                <h4 class="my-skill">
-                                    After Effects
-                                    <span>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star-empty"></i>
-                                    </span>
-                                </h4>
-                                <h4 class="my-skill">
-                                    Flash
-                                    <span>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star-empty"></i>
-                                        <i class="icon-star-empty"></i>
-                                    </span>
-                                </h4>
-                                <h4 class="my-skill">
-                                    Illustrator
-                                    <span>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                    </span>
-                                </h4>
-                                <h4 class="my-skill">
-                                    InDesign
-                                    <span>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                    </span>
-                                </h4>
-                                <h4 class="my-skill">
-                                    Photoshop
-                                    <span>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                    </span>
-                                </h4>
-                                <h4 class="my-skill">
-                                    QuarkXPress
-                                    <span>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star-empty"></i>
-                                        <i class="icon-star-empty"></i>
-                                    </span>
-                                </h4>
-
                                 <h3 class="my-caption">Programming Skills</h3>
-
                                 <h4 class="my-skill">
-                                    HTML(5) &amp; CSS(3)
+                                    Java
                                     <span>
                                         <i class="icon-star"></i>
                                         <i class="icon-star"></i>
@@ -216,7 +128,7 @@
                                     </span>
                                 </h4>
                                 <h4 class="my-skill">
-                                    Javascript &amp; jQuery
+                                    PHP
                                     <span>
                                         <i class="icon-star"></i>
                                         <i class="icon-star"></i>
@@ -226,20 +138,29 @@
                                     </span>
                                 </h4>
                                 <h4 class="my-skill">
-                                    PHP &amp; SQL
+                                    HTML/CSS/Javascript
+                                    <span>
+                                        <i class="icon-star"></i>
+                                        <i class="icon-star"></i>
+                                        <i class="icon-star"></i>
+                                        <i class="icon-star-empty"></i>
+                                        <i class="icon-star-empty"></i>
+                                    </span>
+                                </h4>
+                                <h4 class="my-skill">
+                                    SQL & NoSQL
                                     <span class="pull-right">
                                         <i class="icon-star"></i>
                                         <i class="icon-star"></i>
                                         <i class="icon-star"></i>
-                                        <i class="icon-star-empty"></i>
+                                        <i class="icon-star"></i>
                                         <i class="icon-star-empty"></i>
                                     </span>
                                 </h4>
 
-                                <h3 class="my-caption">Foreign Languages</h3>
-
+                                <h3 class="my-caption">Languages</h3>
                                 <h4 class="my-skill">
-                                    French
+                                    English
                                     <span>
                                         <i class="icon-star"></i>
                                         <i class="icon-star"></i>
@@ -249,28 +170,16 @@
                                     </span>
                                 </h4>
                                 <h4 class="my-skill">
-                                    German
-                                    <span>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star"></i>
-                                        <i class="icon-star-empty"></i>
-                                        <i class="icon-star-empty"></i>
-                                    </span>
-                                </h4>
-                                <h4 class="my-skill">
-                                    Spanish
+                                    Vietnamese
                                     <span>
                                         <i class="icon-star"></i>
                                         <i class="icon-star"></i>
                                         <i class="icon-star"></i>
                                         <i class="icon-star"></i>
-                                        <i class="icon-star-empty"></i>
+                                        <i class="icon-star"></i>
                                     </span>
                                 </h4>
-
                             </div><!-- end of resume-tab, column 3 -->
-
                         </div><!-- end of resume-tab -->
 
                         <!-- Portfolio
