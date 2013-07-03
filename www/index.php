@@ -74,7 +74,6 @@
             </ul>
 
                     <div class="tab-content">
-
                         <!-- Resume
                         ================================================== -->
                         <div id="resume-tab" class="tab-pane row-fluid active fade in">
@@ -185,67 +184,18 @@
                         <!-- Portfolio
                         ================================================== -->
                         <div id="portfolio-tab" class="tab-pane fade">
-
                             <div id="portfolio">
-
                                 <div class="portfolio-item">
                                     <div class="portfolio-details">
-                                        <h4>Business Card</h4>
-                                        <img width="100%" src="img/mock-up-business-card.png" alt="image description">
+                                        <h4>QAZ.VN</h4>
+                                        <p>URL Shortener Service</p>
+                                        <img width="100%" src="img/mock-up-qaz.vn.png" alt="QAZ.VN">
                                         <p>
-                                            Sint vidisse in quo, vim an amet dicunt adversarium.
+                                            Design and Develop
                                         </p>
                                         <p class="portfolio-links">
-                                            <a href="#" target="_blank">
-                                                <i class="icon-signin"></i>&nbsp;Client
-                                            </a>
-                                        </p>
-                                    </div>
-                                </div>
-
-                                <div class="portfolio-item">
-                                    <div class="portfolio-details">
-                                        <h4>Mail-Order Catalog</h4>
-                                        <p>
-                                            Sint vidisse in quo, vim an amet dicunt adversarium.
-                                        </p>
-                                        <p>
-                                            - Cover and Layout<br>
-                                            - Illustrations<br>
-                                            - PrePress<br>
-                                        </p>
-                                        <p>
-                                            Ad putent delenit eos, quis ullamcorper vix eu.
-                                        </p>
-                                        <p class="portfolio-links">
-                                            <a href="#" target="_blank">
-                                                <i class="icon-picture"></i>&nbsp;Cover&nbsp;|&nbsp;
-                                            </a>
-                                            <a href="#" target="_blank">
-                                                <i class="icon-file-alt"></i>&nbsp;.pdf
-                                            </a>
-                                        </p>
-                                    </div>
-                                </div>
-
-                               <div class="portfolio-item">
-                                    <img width="100%" src="img/mock-up-stencil-wallart.png" alt="image description">
-                                    <div class="portfolio-details">
-                                        <h4>Awareness Campaign</h4>
-                                        <p>
-                                            Pellentesque dignissim, odio a euismod viverra, tellus orci viverra risus,
-                                            sed accumsan odio elit nec tellus.
-                                        </p>
-                                        <p>
-                                            Ad putent delenit eos, quis ullamcorper vix eu.
-                                        </p>
-                                        <p>
-                                            Sint vidisse in quo, vim an amet dicunt adversarium.
-                                        </p>
-                                        <img width="100%" src="img/mock-up-brochure.png" alt="image description">
-                                        <p class="portfolio-links">
-                                            <a href="#" target="_blank">
-                                                <i class="icon-signin"></i>&nbsp;Government Agency
+                                            <a href="http://qaz.vn" target="_blank">
+                                                <i class="icon-signin"></i>&nbsp;Website
                                             </a>
                                         </p>
                                     </div>
@@ -253,29 +203,41 @@
 
                                 <div class="portfolio-item">
                                     <div class="portfolio-details">
-                                        <h4>Self-Study-Guide</h4>
+                                        <h4>OpenAPI</h4>
+                                        <p>Public Open APIs</p>
+                                        <img width="100%" src="img/mock-up-qaz.vn.png" alt="QAZ.VN">
                                         <p>
-                                            Pellentesque dignissim, odio a euismod viverra, tellus orci viverra risus,
-                                            sed accumsan odio elit nec tellus.
-                                        </p>
-                                        <p>
-                                            Sint vidisse in quo, vim an amet dicunt adversarium.
-                                        </p>
-                                        <p>
-                                            Ad putent delenit eos, quis ullamcorper vix eu.
+                                            - Technical Architect<br />
+                                            - System Design
                                         </p>
                                         <p class="portfolio-links">
-                                            <a href="#" target="_blank">
-                                                <i class="icon-download-alt"></i>&nbsp;.doc&nbsp;|&nbsp;
-                                            </a>
-                                            <a href="#" target="_blank">
-                                                <i class="icon-file-alt"></i>&nbsp;.pdf
+                                            <a href="http://openapi.vn" target="_blank">
+                                                <i class="icon-signin"></i>&nbsp;Website
                                             </a>
                                         </p>
                                     </div>
                                 </div>
 
-                                 <div class="portfolio-item">
+                                <div class="portfolio-item">
+                                    <div class="portfolio-details">
+                                        <h4>GitHub / DDTH</h4>
+                                        <p>My Github Repositories</p>
+                                        <img width="100%" src="img/mock-up-github_ddth.png" alt="QAZ.VN">
+                                        <p>
+                                            - <a target="_blank" href="https://github.com/DDTH/DASP">DASP</a><br />
+                                            - <a target="_blank" href="https://github.com/DDTH/HazelcastServer">HazelcastServer</a><br />
+                                            - <a target="_blank" href="https://github.com/DDTH/dPHP">dPHP</a><br />
+                                        </p>
+                                        <p class="portfolio-links">
+                                            <a href="https://github.com/DDTH/" target="_blank">
+                                                <i class="icon-signin"></i>&nbsp;more...
+                                            </a>
+                                        </p>
+                                    </div>
+                                </div>
+
+                                <!--
+                                <div class="portfolio-item">
                                     <div class="portfolio-details">
                                         <h4>Soft Drink Campaign</h4>
                                         <p>
@@ -369,7 +331,7 @@
                                         </p>
                                     </div>
                                 </div>
-
+                                  -->
                             </div><!-- end of portfolio -->
 
 
